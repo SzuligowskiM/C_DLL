@@ -1,0 +1,10 @@
+"C:\Users\lukasz\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\lukasz\Desktop\D2\10\zad10_11 -B C:\Users\lukasz\Desktop\D2\10\zad10_11\cmake-build-debug
+-- The C compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/lukasz/Desktop/D2/10/zad10_11/cmake-build-debug

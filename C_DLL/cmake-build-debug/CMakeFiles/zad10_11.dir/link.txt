@@ -1,0 +1,3 @@
+"C:\Users\lukasz\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\zad10_11.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\zad10_11.dir/objects.a @CMakeFiles\zad10_11.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\zad10_11.dir/objects.a -Wl,--no-whole-archive -o zad10_11.exe -Wl,--out-implib,libzad10_11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zad10_11.dir\linkLibs.rsp
